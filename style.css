@@ -1,0 +1,15 @@
+.jumbotron{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#about-us{
+    font-style: italic;
+}
+.col-sm-6{
+    width: 200px;
+    max-height: fit-content;
+}
+#footer{
+    background-color: black;
+    color: white;
+}
